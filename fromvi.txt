@@ -8,9 +8,16 @@
 
 С русским языком шляпа
 
+Работа с файлами:
+	:w - записать файл
+	:w <name file> - записать файл и задать ему имя
+	:q! - Выйти из редактирования без сохранения изменений
+	:wq - Выйти и сохранить
+	:x - Выйти и сохранить короткий вариант
 
 gg - the first string
 G - the end string
 w - next word
+ZZ - save and quit
 b - latest word
 e - next end of word
