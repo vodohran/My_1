@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ﻿tipo log
 eshe odin
+=======
+tipo log
+>>>>>>> 3496e5fac3a5a52316a4bfa5eab6a2d695a2e3b9
