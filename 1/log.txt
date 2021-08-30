@@ -1,1 +1,2 @@
-tipo log
+﻿tipo log
+eshe odin
