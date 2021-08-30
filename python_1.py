@@ -1,3 +1,3 @@
-print (" First   print ")
-print (" Second  print ")
-print (" Third   print ")
+print (" First print")
+print (" Second print")
+
